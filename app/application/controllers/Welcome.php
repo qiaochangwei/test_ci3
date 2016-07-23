@@ -25,6 +25,11 @@ class Welcome extends CI_Controller {
 
 	}
 
+	public function  some_things(){
+
+		$this->load->view('some_things');
+	}
+
 
 	function extend_1($file_name)
 	{

@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>你个哈比</title>
 
 	<style type="text/css">
 
@@ -63,7 +63,7 @@
 		box-shadow: 0 0 8px #D0D0D0;
 	}
 	</style>
-	<title>你个哈比</title>
+
 </head>
 <body>
 

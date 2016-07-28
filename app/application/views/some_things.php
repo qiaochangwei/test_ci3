@@ -3,6 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+	<link rel="shortcut icon" href="<?php echo PATH_STATIC_GLOBAL_IMAGES; ?>favicon.ico" />
 	<title>你个哈比</title>
 
 	<style type="text/css">

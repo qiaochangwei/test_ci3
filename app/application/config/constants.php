@@ -88,3 +88,4 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 define('PATH_STATIC_GLOBAL_JS', '/static/js/');
 define('PATH_STATIC_GLOBAL_CSS', '/static/css/');
+define('PATH_STATIC_GLOBAL_IMAGES', '/static/images/');

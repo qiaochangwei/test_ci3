@@ -145,7 +145,7 @@
 
 <div class="text-center footer">
     <div class="container">
-        Copyright @ 2084 Company Name
+        Copyright @ 2084 乔之出品
 
     </div>
 </div>
@@ -153,6 +153,7 @@
 <script src="<?php echo PATH_STATIC_GLOBAL_INDEX; ?>js/jquery.min.js"></script>
 <script src="<?php echo PATH_STATIC_GLOBAL_INDEX; ?>js/bootstrap.min.js"></script>
 <script src="<?php echo PATH_STATIC_GLOBAL_INDEX; ?>js/jquery.singlePageNav.min.js"></script>
+<script src="<?php echo PATH_STATIC_GLOBAL_INDEX; ?>js/jquery.pin.js"></script>
 
 <script>
 

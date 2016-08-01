@@ -24,8 +24,9 @@ class Welcome extends CI_Controller {
 
 
 	}
-	
+
 	function single(){
+
 		$this->load->view('index');
 	}
 

@@ -16,7 +16,14 @@ class Index extends CI_Controller {
     }
 
 
+    public function some_things()
+    {
 
+
+        $this->load->view('some_things');
+
+
+    }
 
 
 }

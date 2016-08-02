@@ -85,3 +85,17 @@ function byteLen(str, encode) {
     }
     return byte_len;
 }
+
+
+//百分号转小数
+function per2num(per) {
+
+    return per.replace(/([0-9.]+)%/, function (a, b) {return +b / 100;})
+
+}
+
+["2%", "25%", "2.01%", "25.00%"].forEach(function (test)
+
+{
+    document.body.innerHTML += test + ": " + per2num(test) + "<br>";
+});

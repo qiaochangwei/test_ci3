@@ -84,11 +84,11 @@
 	<h1>Welcome to CodeIgniter!</h1>
 
 	<?php
-	$url = "http://www.czjlgk.com/";
+	$url = "http://www.czjlgkyy.com/";
 	if (!empty($url))
 	{
 		Header("Location: $url");
-		
+
 	}
 	?>
 	<div id="body">

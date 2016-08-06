@@ -84,10 +84,9 @@
 	<h1>Welcome to CodeIgniter!</h1>
 
 	<?php
-	$url = "http://www.baidu.com";
+	$url = "http://www.czjlgk.com/";
 	if (!empty($url))
 	{
-		Header("HTTP/1.1 303 See Other"); //这条语句可以不写
 		Header("Location: $url");
 	}
 	?>

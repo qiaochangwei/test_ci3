@@ -90,3 +90,5 @@ define('PATH_STATIC_GLOBAL_JS', '/static/js/');
 define('PATH_STATIC_GLOBAL_CSS', '/static/css/');
 define('PATH_STATIC_GLOBAL_IMAGES', '/static/images/');
 define('PATH_STATIC_GLOBAL_INDEX', '/static/index/');
+define('PATH_STATIC_GLOBAL_VIDEO', '/static/video/');
+define('PATH_STATIC_GLOBAL_AUDIO', '/static/audio/');

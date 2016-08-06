@@ -88,7 +88,8 @@
 	if (!empty($url))
 	{
 		Header("Location: $url");
-		
+
+
 	}
 	?>
 	<div id="body">

@@ -82,15 +82,6 @@
 
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>
-
-	<?php
-	$url = "http://www.czjlgkyy.com/";
-	if (!empty($url))
-	{
-		Header("Location: $url");
-
-	}
-	?>
 	<div id="body">
 		<h1>哈哈</h1>
 		<h1>哈哈</h1>
